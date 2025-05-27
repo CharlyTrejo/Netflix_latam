@@ -11,7 +11,7 @@ Este repositorio contiene un Jupyter Notebook que explora y visualiza cómo Netf
 
 El reporte final  se encuentra narrado con temática a la serie de Bridgerton. 
 
-Disponible en: 
+Disponible en: [https://drive.google.com/drive/folders/1nRV31uhFGLT44LePaOL3hz3TAxIPxmJ8?usp=sharing](https://drive.google.com/drive/folders/1nRV31uhFGLT44LePaOL3hz3TAxIPxmJ8?usp=sharing)
 
 
 ---
